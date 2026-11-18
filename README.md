@@ -11,9 +11,9 @@ wallet.
 
 This guide walks you from zero to your first entry, step by step.
 
-> **New here? Sign up with my link:** [https://make.fun/r/75k23xv8](https://make.fun/r/75k23xv8)
+> **New here? Sign up with my link:** [https://make.fun/r/89k0z65b](https://make.fun/r/89k0z65b)
 >
-> My referral code is `75k23xv8`.
+> My referral code is `89k0z65b`.
 
 ## Contents
 
@@ -78,7 +78,7 @@ Two things that save time later:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/75k23xv8](https://make.fun/r/75k23xv8) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/89k0z65b](https://make.fun/r/89k0z65b) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. None of them costs anything, and signing with a
    wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture and a short bio.
@@ -229,7 +229,7 @@ sign up, paid on top by make.fun, so their own reward stays whole. Your link, th
 everything you have earned are on the **Referrals** tab of your profile. Rewards are reviewed for at least a day
 before you can claim them, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/75k23xv8) (code `75k23xv8`) is a nice way to say
+If this guide helped, signing up through [my link](https://make.fun/r/89k0z65b) (code `89k0z65b`) is a nice way to say
 thanks.
 
 ## Questions
@@ -280,4 +280,4 @@ home paths before upload, and `bundle --redact "<text>"` removes any other perso
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/75k23xv8 · code `75k23xv8`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/89k0z65b · code `89k0z65b`</sub>
